@@ -71,3 +71,7 @@ Justin Donner
 Machine Learning Engineer & Spatial Data Architect
 [www.linkedin.com/in/justin-donner-wa-nd-mn-ca] | [https://tinyurl.com/44fv3tdf]
 "Building the future of physical-to-digital precision with a lifetime of code and a mission-driven heart."
+
+EXAMPLE of SPATIAL MAPPING using MLB DATA:
+<img width="1367" height="1289" alt="image" src="https://github.com/user-attachments/assets/12f431bd-504b-4c2f-87d2-af19cfa08c57" />
+
