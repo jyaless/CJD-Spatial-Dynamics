@@ -1,0 +1,8 @@
+numpy>=1.24.0
+pandas>=2.0.0
+plotly>=5.15.0
+scipy>=1.11.0
+pyarrow>=12.0.0
+scikit-learn-extra>=0.3.0  # Required for K-Medoids
+urllib3>=2.0.0
+python-dotenv>=1.0.0
