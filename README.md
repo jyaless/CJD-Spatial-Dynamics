@@ -80,12 +80,21 @@ Engineered a Monte Carlo simulation engine capable of isolating 'Peak Probabilit
 "Implemented a proprietary Entropy Adjustment Coefficient to penalize model confidence in low-sample-size scenarios, reducing false-positive rates by 18%.
 
 ARCHITECTURE:
-"graph TD
+
+graph TD
+
     A[Physical Assets: GPS/RFID Telemetry] --> B[Ingestor: Real-Time Streamer]
+    
     B --> C{Sentinel Monitor}
+    
     C -- Anomaly Detected --> D[Rescue Protocol: SSL/Type Rescue]
+    
     C -- Valid Data --> E[Feature Engineering: Parquet Store]
+    
     E --> F[Physics Engine: Stochastic/Chiral Logic]
+    
     F --> G[K-Medoids Convergence Engine]
+    
     G --> H[Predictive Spatial Output]
-    D --> B"
+    
+    D --> B
