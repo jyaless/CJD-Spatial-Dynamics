@@ -1,0 +1,13 @@
+CJD-Spatial-Dynamics/
+├── data/               # (Ignored by git) Raw and Parquet samples
+├── notebooks/          # Visualization and Math proofs
+│   └── spatial_math_exploration.ipynb
+├── src/                # Core Logic
+│   ├── __init__.py
+│   ├── ingestor.py     # API Handling & Normalization
+│   ├── physics.py      # Stochastic & Chiral Logic
+│   └── pipeline.py     # Parquet conversion & Feature Store
+├── .env.example        # Template for API keys
+├── .gitignore          # Ignore __pycache__, .env, and /data
+├── README.md           # (Use the draft I provided previously)
+└── requirements.txt
