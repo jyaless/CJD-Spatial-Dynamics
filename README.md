@@ -73,5 +73,4 @@ Machine Learning Engineer & Spatial Data Architect
 "Building the future of physical-to-digital precision with a lifetime of code and a mission-driven heart."
 
 EXAMPLE of SPATIAL MAPPING using MLB DATA:
-<img width="1367" height="1289" alt="image" src="https://github.com/user-attachments/assets/12f431bd-504b-4c2f-87d2-af19cfa08c57" />
-
+<img width="1524" height="1222" alt="image" src="https://github.com/user-attachments/assets/2a189e9b-a586-45fd-8efa-dcecf873aa42" />
